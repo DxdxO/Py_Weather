@@ -1,1 +1,0 @@
-{"Casablanca" : 20,"Madrid":19,"Pretoria":30,"Abidjan" :10,"Bouake" :23,"Sminth" :55}
