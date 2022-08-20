@@ -1,5 +1,12 @@
+"""
+
+Ce projet consiste a afficher la meteo d'une localité
+
+"""
+
 print ('Veuillez entrer la ville dont la météo est demandé') 
-ville = input('Entrer la ville > ').lower()
+ville = input('Entrer la ville > ').lower() #je recupere la ville 
+
 Dico= {"abidjan":100, "daloa":45}
 
 if ville in Dico.keys() :
